@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-opening-balances-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-opening-balances",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-opening-balances-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/opening-balances.md",
+  "presentationPlan": "projects/accounting/nuxt/opening-balances.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
